@@ -1,0 +1,12 @@
+{
+  "name": "FileSizeOnPicker",
+  "version": "1.0.0",
+  "description": "show the size of files in the media picker",
+  "authors": [
+    {
+      "name": "mafu",
+      "id": "519760564755365888"
+    }
+  ],
+  "color": "#a8d3ff"
+}
