@@ -1,7 +1,7 @@
 {
   "name": "FileSizeOnPicker",
   "version": "1.0.0",
-  "description": "show the size of files in the media picker",
+  "description": "Show the size of files in the media picker",
   "authors": [
     {
       "name": "mafu",
